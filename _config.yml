@@ -27,7 +27,7 @@ author:
   location         : "Hongkong, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yifeng.zhang@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -41,7 +41,9 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://nkehougaosuni.github.io/"
+  # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  blog             : "https://nkehougaosuni.github.io/"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
@@ -56,8 +58,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-  blog             : "https://nkehougaosuni.github.io/"
+  wikipedia        : 
 
 
 # Reading Files
